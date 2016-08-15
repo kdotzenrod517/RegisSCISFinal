@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kdotz.regisscis.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_validate"
+        android:title="Validate"
+        android:icon="@mipmap/ic_validate"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_share"
+        android:title="Share"
+        android:icon="@mipmap/ic_share"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_post"
+        android:title="Post"
+        android:icon="@mipmap/ic_post"
+        app:showAsAction="never"/>
+
+</menu>

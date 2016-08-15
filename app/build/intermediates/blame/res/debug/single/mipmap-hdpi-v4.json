@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_regis.png",
+        "source": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\src\\main\\res\\mipmap-hdpi\\ic_regis.png"
+    },
+    {
+        "merged": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_chat.png",
+        "source": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\src\\main\\res\\mipmap-hdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_share.png",
+        "source": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\src\\main\\res\\mipmap-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_validate.png",
+        "source": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\src\\main\\res\\mipmap-hdpi\\ic_validate.png"
+    },
+    {
+        "merged": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_post.png",
+        "source": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\src\\main\\res\\mipmap-hdpi\\ic_post.png"
+    }
+]

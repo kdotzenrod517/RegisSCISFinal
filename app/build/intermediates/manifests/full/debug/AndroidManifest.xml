@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kdotz.regisscis"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.kdotz.regisscis.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.kdotz.regisscis.ShareBarActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.kdotz.regisscis.ProgramDetailActivity"
+            android:label="@string/title_activity_program_detail"
+            android:parentActivityName="com.example.kdotz.regisscis.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.kdotz.regisscis.Validate"
+            android:label="@string/title_activity_validate"
+            android:parentActivityName="com.example.kdotz.regisscis.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.kdotz.regisscis.Client"
+            android:label="@string/title_activity_client"
+            android:parentActivityName="com.example.kdotz.regisscis.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <service
+                android:name="com.example.kdotz.regisscis.MyService"
+                android:label="@string/MyService_name" />
+
+            <receiver android:name="com.example.kdotz.regisscis.MyReceiver" >
+                <intent-filter>
+                    <action android:name="com.example.kdotz.regisscis.displayevent" />
+                </intent-filter>
+            </receiver>
+        </activity>
+    </application>
+
+</manifest>

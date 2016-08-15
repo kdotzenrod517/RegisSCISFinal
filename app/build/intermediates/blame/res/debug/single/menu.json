@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_validate.xml",
+        "source": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\src\\main\\res\\menu\\menu_validate.xml"
+    },
+    {
+        "merged": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_program_detail.xml",
+        "source": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\src\\main\\res\\menu\\menu_program_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\kdotz\\Desktop\\AndroidDev\\RegisSCIS\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]
